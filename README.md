@@ -18,7 +18,3 @@
 
 <br>
 <br>
-<h3 align="left">About Some Stats:</h3>
-<div align="left">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tienhuynh-tn&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
-</div>
