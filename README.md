@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hashini Sewmini</h1>
 <h3 align="center">Passionate IT Student</h3><br>
 
-- 🌱 I’m currently learning **Java**    <img align="right" style="width:26rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif"/>
+
 
 
 - 👨‍💻 I'm an undergraduate at UCSC
 
-- 📫 How to reach me **hashinisewmini01@gmail.com**
 
 
 <p align="left">
